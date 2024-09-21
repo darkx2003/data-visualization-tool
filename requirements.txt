@@ -1,0 +1,6 @@
+pandas
+gradio
+scikit-learn
+matplotlib
+seaborn
+huggingface-hub
